@@ -3,9 +3,9 @@
 
 What if starting a new go project were as simple as `$ go start rest-service`, `$ go start cli`, or `$ go start library`? If you're like me, then you're probably thinking:
 
-> That would be great if there was a tool that didn't imposes horribly opinionated takes on application design.
+> That would be great if there was a tool that didn't impose horribly opinionated takes on application design.
 
-And so I'm creating `gost`, a tool to streamline start time for new projects that are idiomatic and standardized (whatever that means to you). Extensibility is *the* core principle in the design of `gost`. importantly, to streamline the authoring, managing, exploring, and publishing of the standards themselves.
+And that's why I'm creating `gost`, a tool to streamline start time for new projects that are idiomatic and standardized (whatever that means to you). Extensibility is *the* core principle in the design of `gost`. importantly, to streamline the authoring, managing, exploring, and publishing of the standards themselves.
 
 ### Built on Go's Foundations
 
