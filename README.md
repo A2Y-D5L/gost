@@ -1,12 +1,11 @@
 # [A2Y-D5L](https://github.com/a2y-d5l) / gost
+<center><img src="doc/assets/logo.jpg" style="width: 0%; height: auto;"></center>
 
-What if starting a new go project were as simple as `$ go start rest-service`, `$ go start cli`, or `$ go start library`?
+What if starting a new go project were as simple as `$ go start rest-service`, `$ go start cli`, or `$ go start library`? If you're like me, then you're probably thinking:
 
-If you're like me, then you're probably thinking:
+> That would be great if there was a tool that didn't imposes horribly opinionated takes on application design.
 
-> That sounds great, but I'm never going to use some tool that imposes horrible, opinionated application design takes.
-
-That's why I'm creating `gost`. Not just a tool to streamline starting new standards-based projects, but one, more importantly, to streamline the authoring, managing, exploring, and publishing of the standards themselves.
+And so I'm creating `gost`, a tool to streamline start time for new projects that are idiomatic and standardized (whatever that means to you). Extensibility is *the* core principle in the design of `gost`. importantly, to streamline the authoring, managing, exploring, and publishing of the standards themselves.
 
 ### Built on Go's Foundations
 
